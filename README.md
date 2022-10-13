@@ -1,0 +1,1 @@
+# rubocop-version-tests
